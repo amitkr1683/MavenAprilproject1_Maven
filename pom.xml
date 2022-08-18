@@ -119,14 +119,6 @@
 			<artifactId>extentreports</artifactId>
 			<version>5.0.9</version>
 		</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main.maven/maven35-interceptor -->
-<dependency>
-    <groupId>org.jenkins-ci.main.maven</groupId>
-    <artifactId>maven35-interceptor</artifactId>
-    <version>1.13</version>
-</dependency>
-
 		
 	</dependencies>
 
